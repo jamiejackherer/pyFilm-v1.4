@@ -1,0 +1,5 @@
+bs4>=4.4.1
+hurry
+pandas>=0.18.1
+pyprind>=2.9.8
+requests>=2.2.1
